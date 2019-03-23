@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1551761127 source:c:\acm—µ¡∑\find a number\main.cpp
+	<iostream>
+	<istream>
+	<iterator>
+	<limits>
+	<list>
+	<locale>
+	<map>
+	<memory>
+	<new>
+	<numeric>
+	<ostream>
+	<queue>
+	<set>
+	<sstream>
+	<stack>
+	<stdexcept>
+	<streambuf>
+	<string>
+	<typeinfo>
+	<utility>
+	<valarray>
+	<vector>
+	<array>
+	<atomic>
+	<chrono>
+	<condition_variable>
+	<forward_list>
+	<future>
+	<initializer_list>
+	<mutex>
+	<random>
+	<ratio>
+	<regex>
+	<scoped_allocator>
+	<system_error>
+	<thread>
+	<tuple>
+	<typeindex>
+	<type_traits>
+	<unordered_map>
+	<unordered_set>
+
